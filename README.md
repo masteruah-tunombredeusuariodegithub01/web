@@ -1,2 +1,2 @@
 ### web
-Lin a la página : Organization Web Page
+Link a la página : [Página Web de la Organización](https://masteruah-alejandrogorgues.github.io/web/)
